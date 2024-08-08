@@ -65,4 +65,11 @@ sbmi-atm-system/
 └── README.md          # Project documentation
 ```
 
+## Contributing
+
+Contributions are welcome! Please create a pull request or open an issue for any improvements or bugs.
+
+## License
+
+This project is licensed under the MIT License.
 
