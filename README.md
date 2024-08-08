@@ -17,8 +17,8 @@ SBMI ATM System is a simple ATM simulation project developed in Python. It uses 
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/sbmi-atm-system.git
-    cd sbmi-atm-system
+    git clone https://github.com/yourusername/atm-simulation-project.git
+    cd atm-simulation-project
     ```
 
 2. **Install dependencies:**
@@ -31,7 +31,7 @@ SBMI ATM System is a simple ATM simulation project developed in Python. It uses 
 
 1. **Run the application:**
     ```sh
-    python sbmi_atm.py
+    python atm.py
     ```
 
 2. **Login:**
@@ -59,7 +59,7 @@ SBMI ATM System is a simple ATM simulation project developed in Python. It uses 
 ## Project Structure
 
 ```plaintext
-sbmi-atm-system/
+atm-simulation-project/
 ├── user_data.db       # SQLite database
 ├── atm.py        # Main Python script
 └── README.md          # Project documentation
