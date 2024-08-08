@@ -61,7 +61,7 @@ SBMI ATM System is a simple ATM simulation project developed in Python. It uses 
 ```plaintext
 sbmi-atm-system/
 ├── user_data.db       # SQLite database
-├── sbmi_atm.py        # Main Python script
+├── atm.py        # Main Python script
 └── README.md          # Project documentation
 ```
 
