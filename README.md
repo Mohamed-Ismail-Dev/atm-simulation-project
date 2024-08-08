@@ -11,6 +11,7 @@ SBMI ATM System is a simple ATM simulation project developed in Python. It uses 
 - **Balance Enquiry:** Check the account balance.
 - **Cash Deposit:** Deposit money into the account.
 - **Cash Withdrawal:** Withdraw money from the account with balance verification.
+- **Data Security:** User passwords and OTPs are secured using `encryption` techniques.
 
 ## Installation
 
@@ -56,17 +57,12 @@ SBMI ATM System is a simple ATM simulation project developed in Python. It uses 
   - Password: `1020300`
 
 ## Project Structure
+
+```plaintext
 sbmi-atm-system/
-├── user_data.db # SQLite database
-├── sbmi_atm.py # Main Python script
-└── README.md # Project documentation
+├── user_data.db       # SQLite database
+├── sbmi_atm.py        # Main Python script
+└── README.md          # Project documentation
+```
 
-
-## Contributing
-
-Contributions are welcome! Please create a pull request or open an issue for any improvements or bugs.
-
-## License
-
-This project is licensed under the MIT License.
 
